@@ -1,0 +1,29 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunter-Houts/npm-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunter-Houts/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/Hunter-Houts/npm-exercises#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.18.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.0"
+  }
+}
